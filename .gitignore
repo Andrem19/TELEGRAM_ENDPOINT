@@ -5,3 +5,6 @@ logs/
 .env
 bot.sqlite3-shm
 bot.sqlite3-wal
+.venv/
+venv/
+*.py[cod]
